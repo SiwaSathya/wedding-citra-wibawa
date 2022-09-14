@@ -79,6 +79,7 @@
     outline-style: solid;
     margin-right: auto;
     border-radius: 10px;
+    padding-bottom: 10px ;
 }
 
 .open>a{
@@ -392,11 +393,12 @@
     position: fixed;
     bottom: 20px;
     right: 20px;
-    width: 75px;
-    height: 75px;
-    background-color: #00000000;
+    width: 40px;
+    height: 40px;
+    background: url(pause.png) no-repeat;
     border-radius: 50px;
     border-style: none;
+    
 }
 }
 
