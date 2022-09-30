@@ -302,6 +302,14 @@
     border-color: rgb(0, 0, 0);
     border-style: solid;
 }
+    
+.gif>h1{
+    font-size: larger;
+    text-align: center;
+    position: 0;
+    font-family: 'Playfair Display', serif;
+    
+}
 
 
 
